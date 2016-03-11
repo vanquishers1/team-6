@@ -1,0 +1,51 @@
+    1  asama
+    2  git config
+    3  git help
+    4  git config --global asama
+    5  git config --global asama.arpitha
+    6  git config --global asama.asama@my.okcu.edu
+    7  clear
+    8  git config --global user.name "Arpitha Sama"
+    9  git config --global user.email "asama@my.okcu.edu"
+   10  mkdir myFirst
+   11  ls
+   12  cd myFirst
+   13  pwd
+   14  vim hello.c
+   15  git init
+   16  ls
+   17  git add
+   18  cd
+   19  mkdir MyFirst2/
+   20  cd MyFirst2
+   21  ls
+   22  ls -al
+   23  git init
+   24  git add
+   25  git add hello.c
+   26  vim hello.c
+   27  git add hello.c
+   28  git commit
+   29  less hello.c
+   30  vim hello.c
+   31  git status
+   32  git add
+   33  git add.
+   34  git add .
+   35  git commit
+   36  git status
+   37  vim hello.c
+   38  git add .
+   39  git commit
+   40  git status
+   41  git add.
+   42  vim myprog.c
+   43  gcc -o myprog myprog.c
+   44  vim hello.c
+   45  git status
+   46  git commit
+   47  git add .
+   48  git commit
+   49  git log
+   50  history
+   51  history > myHistory
